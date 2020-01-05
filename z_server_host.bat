@@ -1,0 +1,2 @@
+app.exe host
+pause
