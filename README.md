@@ -9,7 +9,7 @@
 - Node.js v7.6.0或以上版本
 - Mysql v5.7.26或以上
 
-## 数据库
+## 数据库【实例 如不用可以跳过】
 - 数据库文件说明 ：sql/and_ios_web_data.sql
 - 数据库名：and_ios_web_data
 - 编码：utf8mb4
